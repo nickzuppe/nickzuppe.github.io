@@ -1,0 +1,47 @@
+h2{
+font: 
+
+
+}
+
+
+img{
+
+ float: left;
+ border-radius: 50px;
+ border: 1px
+ border-radius: 4px;
+ border-color: white;
+ padding: 15px;
+ width: 300px;
+ background-color: white;
+ margin-right: 20px;
+ margin-bottom: 20px;
+
+}
+
+p{
+    font-family: Arial;
+    Helvetica, sana-serif;
+    font size: 18px;
+
+}
+blockquote{ 
+
+    font-family: Arial;
+    Helvetica, sana-serif;
+    font size: 18px;
+    font-style: italic; 
+}
+
+nav a: hover {
+    color: 
+}
+
+.iosevka-charon-light {
+  font-family: "Iosevka Charon", monospace;
+  font-weight: 300;
+  font-style: normal;
+}
+
+
